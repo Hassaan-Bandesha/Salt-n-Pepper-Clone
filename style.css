@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Felipa&family=Instrument+Serif&family=Ma+Shan+Zheng&family=Playfair+Display&family=Poppins:wght@500&display=swap');
+
+/* color variables */
+:root {
+    --red: #f42625;
+    --white: #ffffff;
+    --black: #000000;
+    --grey: #ffffffb3;
+}
+
+/* navbar styling */
+#main-logo {
+    width: 165px;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+#navbar-items {
+    gap: 40px;
+}
+
+#navbar {
+    padding: 0px 40px;
+    margin: 10px 70px;
+}
+
+#franchise {
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    padding: 15px 20px;
+}
+
+#order-online {
+    background-color: var(--red);
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    padding: 15px 20px;
+}
+#red{
+    color: #ff0000;
+}
+#village-btn-icon{
+    border: 1px solid #008000;
+    color: #ffffff;
+    padding: 4px 7px;
+    border-radius: 20px;
+    background-color: #008000;
+}
+.direction-btn-icon{
+    border: 1px solid #000000;
+    color: #ffffff;
+    padding: 4px 7px;
+    border-radius: 20px;
+    background-color: #ff0000;
+}
+#btn-icon{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    color: transparent;
+    padding: 4px 7px;
+}
+#children-images{
+    gap: 30px;
+}
+#i1btn{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    padding: 20px 20px;
+    text-align: center;
+}
+#restraunt-franchises{
+    margin-top: 200px;
+}
+#r-islamabad{
+    margin-left: 100px;
+}
+#islamabad-head{
+    color: #ff0000;
+}
+#get-direction-btn-1{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    padding: 17px 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+#ir-image{
+    margin-left: 200px;
+}
+#faisalabad-head{
+    color: #ff0000;
+}
+#bahawalpur-head{
+    color: #ff0000;
+}
+#br-image{
+    margin-left: 170px;
+}
+#express-images{
+    width: 350px;
+}
+#express-franchises-buttons{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    padding: 10px 15px;
+    text-align: center;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+}
+#express-images-size{
+    width: 350px;
+    height: 250px;
+}
+#village-franchise{
+    margin-top: 100px;
+}
+#get-direction-btn-2{
+    background-color: #006900;
+    border: 1px solid #000000;
+    cursor: pointer;
+    padding: 17px 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+#village-main-image{
+    width: 600px;
+}
+#village-main-data{
+    font-size: 13px;
+}
+#opening-soon{
+    border: 1px solid #000000;
+    padding: 60px;
+    background-color: #ffffff;
+    color: #000000;
+}
+.social-feed-images{
+    width: 250px;
+    height: 300px;
+    /* 1height: 80px; */
+}
+.footer-para-size{
+    font-size: 10px;
+}
+.footer-para-width{
+    width: 250px;
+    height: 300px;
+}
+#my-name{
+    margin-left: 900px;
+}
+.welcome-images{
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    padding: 20px; 
+    /* margin-top: 30px; */
+}

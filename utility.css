@@ -1,0 +1,189 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'Felipa', serif;
+    font-family: 'Instrument Serif', serif;
+    font-family: 'Ma Shan Zheng', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* utility classes */
+
+
+/* flex classes start */
+
+.d-flex{
+    display: flex;
+}
+.justify-end{
+    justify-content: flex-end;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.align-center{
+    align-items: center;
+}
+.align-start{
+    align-items: flex-start;
+}
+.align-end{
+    align-items: flex-end;
+}
+.align-baseline{
+    align-items: baseline;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.flex-column{
+    flex-direction: column;
+}
+.flex-column-reverse{
+    flex-direction: column-reverse;
+}
+.flex-row{
+    flex-direction: row;
+}
+.flex-row-reverse{
+    flex-direction: row-reverse;
+}
+
+/* flex classes end */
+
+
+/* margin classes start */
+.m-1{
+    margin: 5px;
+}
+.m-2{
+    margin: 10px;
+}
+.m-3{
+    margin: 15px;
+}
+.m-4{
+    margin: 20px;
+}
+.m5{
+    margin: 25px;
+}
+.m6{
+    margin: 30px;
+}
+.mt-1{
+    margin-top: 5px;
+}
+.mt-2{
+    margin-top: 10px;
+}
+.mt-3{
+    margin-top: 15px;
+}
+.mt-4{
+    margin-top: 20px;
+}
+.mt-5{
+    margin-top: 25px;
+}
+.mt-6{
+    margin-top: 30px;
+}
+.ml-1{
+    margin-left: 50px;
+}
+.ml-2{
+    margin-left: 100px;
+}
+.ml-3{
+    margin-left: 200px;
+}
+/* margin classes end */
+
+/* Background Color Classes Started*/
+.bg-light{
+    background-color: #ffffff;
+}
+.bg-dark{
+    background-color: #000000;
+}
+.bg-grey{
+    background-color: #0f0f0f;
+}
+.transparent{
+    background-color: transparent;
+}
+/* Background Color Classes Ended */
+
+/* Text Classes Started */
+.text-dark{
+    color: #000000;
+}
+.text-light{
+    color: #ffffff;
+}
+.text-grey{
+    color: #ffffffb3;
+}
+.center{
+    text-align: center;
+}
+
+/* Text Classes Ended */
+
+/* Border Classes Started */
+.rounded1{
+    border-radius: 10px;
+}
+.rounded2{
+    border-radius: 20px;
+}
+.rounded3{
+    border-radius: 30px;
+}
+/* Border Classes Ended */
+
+/* Padding Classes Started */
+.p-1{
+    padding: 10px;
+}
+.p-2{
+    padding: 15px;
+}
+.p-3{
+    padding: 20px;
+}
+.p-4{
+    padding: 20px;
+}
+.p-5{
+    padding: 25px;
+}
+.p-6{
+    padding: 30px;
+}
+.pt-1{
+    padding-top: 20px;
+}
+/* Padding Classes Ended */
+
+/* Extra Classes */
+.red-font{
+    color: #ff0000;
+}
+.black-font{
+    color: #000000;
+}
+/* Extra Classes */
