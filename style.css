@@ -161,5 +161,23 @@ a{
     border: 1px solid #000000;
     background-color: #ffffff;
     padding: 20px; 
-    /* margin-top: 30px; */
 }
+#village-btn-icon{
+    background-color: #ff0000;
+}
+
+/* Publication Page Styling Started */
+.publication-images{
+    border: 1px solid #ffffffb3;
+    padding: 30px;
+    width: 500px;
+    height: 500px;
+}
+.publication-para-size{
+    font-size: 13px;
+}
+/* Publication Page Styling Ended */
+
+/* Feedback Page Styilng Started */
+
+/* Feedback Page Styilng Ended */
